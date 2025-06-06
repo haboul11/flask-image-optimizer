@@ -1,4 +1,1 @@
-flask
-requests
-gunicorn
-Pillow
+-e "Flask\nrequests\ngunicorn" 
